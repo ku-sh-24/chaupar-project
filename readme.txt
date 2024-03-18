@@ -1,6 +1,8 @@
 // there are ( 8*8*8 ) * 4
 
-
+Let's write down the rules:
+      - At any time during the game if three consecutive 10/25/30 occur, those three are discarded
+      
 
 there are 7 beads
 each bead can take boolen value
